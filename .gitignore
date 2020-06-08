@@ -1,4 +1,7 @@
-#Node_Files
+#Node files
 node_modules/*
 
 package-lock.json
+
+#IDE_files
+.idea/*
