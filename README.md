@@ -1,2 +1,6 @@
-# Front-End-Practice
-Work with JavaScript/jQuery/AJax/GULP/SCSS and other.
+To install env for gulp
+
+npm install --global gulp-cli
+npm init
+npm install --save-dev gulp(and other plugins)
+create gulpfile.js(root)
