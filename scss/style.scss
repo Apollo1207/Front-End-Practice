@@ -1,0 +1,19 @@
+$color: yellow;
+
+body {
+	background: $color;
+	h1 {
+		font-weight: lighter;
+	}
+}
+
+
+a {
+	transition: all 0.2s ease;
+}
+
+ul {
+	li {
+		display: inline-block;
+	}
+}
