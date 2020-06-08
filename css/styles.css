@@ -1,0 +1,63 @@
+.block {
+  width: 500px;
+  height: 500px;
+  background: orange;
+  margin: 150px;
+}
+
+.block {
+  margin-bottom: 1000px;
+}
+
+.animate__animated {
+  opacity: 0;
+}
+
+.header {
+  padding: 25px 0;
+  background-color: #000;
+}
+
+.navs {
+  padding: 25px 0;
+  background-color: red;
+}
+
+.header, .navs {
+  text-align: center;
+  color: #fff;
+}
+
+.content {
+  width: 600px;
+  margin: 10px auto 100px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+#toTop {
+  width: 100px;
+  height: 130px;
+  padding: 10px;
+  text-align: center;
+  background: orange;
+  font-weight: bold;
+  color: #444;
+  text-decoration: none;
+  position: fixed;
+  top: 50%;
+  right: 50px;
+  display: none;
+}
+
+h3 {
+  background: azure;
+  text-align: center;
+}
